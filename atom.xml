@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>CodePupil</title>
+  <title>CodeJoker66</title>
   
   <subtitle>一个IT行业的小学生</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://codepupil1.github.io/"/>
-  <updated>2020-06-11T07:47:21.974Z</updated>
+  <updated>2020-06-12T01:48:30.392Z</updated>
   <id>https://codepupil1.github.io/</id>
   
   <author>
-    <name>CodePupil</name>
+    <name>CodeJoker66</name>
     
   </author>
   
@@ -21,7 +21,7 @@
     <link href="https://codepupil1.github.io/2020/06/09/2020610-fen-xiang/"/>
     <id>https://codepupil1.github.io/2020/06/09/2020610-fen-xiang/</id>
     <published>2020-06-09T11:22:37.000Z</published>
-    <updated>2020-06-11T07:47:21.974Z</updated>
+    <updated>2020-06-12T01:48:30.392Z</updated>
     
     <summary type="html">
     
